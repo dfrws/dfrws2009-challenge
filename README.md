@@ -1,7 +1,7 @@
 # dfrws2009-challenge
 The DFRWS 2009 Challenge focused on the development of tools and techniques for analyzing Playstation 3’s (PS3s). The Playstation 3 is a powerful, Cell processor-based system that can run both its native OS (which has significant DRM features that also thwart forensic investigation) and modern versions of Linux. This challenge focused on the Linux and network aspects of PS3s, and did not touch the DRM protected data. The challenge scenario required analysis of a physical memory dump, filesystem images, and network traces involving 2 PS3’s and a Playstation Portable (PSP).
 
-##The Winners
+## The Winners
 The winning submission for the DFRWS2009 Forensic Challenge was from **Wouter van Dongen and Alain van Hoof** at University of Amsterdam System & Network Engineering (PDF Report).
 
 This submission provided a thorough analysis of the file system and network traffic, with some information extracted from the physical memory dump. The careful correlation of information from multiple data sources was a major strength of this submission. The results were presented in a very clear manner, and there is a particularly impressive timeline diagram.
