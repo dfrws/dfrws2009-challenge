@@ -8,24 +8,26 @@ We thank all contestants for their efforts and their willingness to share their 
 
 ## The Winners
 
-The winning submission for the DFRWS2009 Forensic Challenge was from **Wouter van Dongen and Alain van Hoof** at University of Amsterdam System & Network Engineering (PDF Report).
+The winning submission for the DFRWS2009 Forensic Challenge was from **Wouter van Dongen and Alain van Hoof** at University of Amsterdam System & Network Engineering [PDF Report](vandongen_vanhoof.pdf).
 
 This submission provided a thorough analysis of the file system and network traffic, with some information extracted from the physical memory dump. The careful correlation of information from multiple data sources was a major strength of this submission. The results were presented in a very clear manner, and there is a particularly impressive timeline diagram.
 
 ## Other Contestants
-**Byungkil Lee, Hongsuk Yang, and Hyeon Yu** provided concise analysis of available evidence to address the questions posed in this challenge, providing a rough timeline of events (PDF Report).
+**Byungkil Lee, Hongsuk Yang, and Hyeon Yu** provided concise analysis of available evidence to address the questions posed in this challenge, providing a rough timeline of events [PDF Report](lee_yang_yu.pdf).
 
-**Knut Kröger and Sven Wegner** at University of Applied Sciences Brandenburg used a variety of tools to extract information from the available evidence and address the questions posed in this challenge (PDF Report).
+**Knut Kröger and Sven Wegner** at University of Applied Sciences Brandenburg used a variety of tools to extract information from the available evidence and address the questions posed in this challenge [PDF Report](kroger_wegner.pdf).
 
-**Jewan Bang, JungHeum Park, Kwonyoup Kim, and Sangjin Lee** at Korea University Center for Information Security Technologies focused on the questions posed in this challenge, giving a concise overview of information obtained from the evidence (PDF Report).
+**Jewan Bang, JungHeum Park, Kwonyoup Kim, and Sangjin Lee** at Korea University Center for Information Security Technologies focused on the questions posed in this challenge, giving a concise overview of information obtained from the evidence [PDF Report](bang_park_kim_lee.pdf).
 
-**Erik Hjelmvik** concentrated on analysis of network traffic, presenting details relevant to the investigation (PDF Report).
+**Erik Hjelmvik** concentrated on analysis of network traffic, presenting details relevant to the investigation [PDF Report](hjelmvik.pdf).
 
 ## Judging Process
 Submissions were evaluated based on the completeness and accuracy of the findings, and on effort developing new techniques and tools. The highest scores were awarded to the submissions that produced the most complete and accurate results, and that contributed significant new tools and techniques.
 
 ## Memory Analysis
 None of the submissions focused on the analysis of memory in this challenge. The creators of this challenge at the University of New Orleans developed a memory analysis tool to extract details from memory dumps from PS3 running Ubuntu as shown here.
+
+![Memory Analysis Tool](mem.png)
 
 ## Background of Scenario Execution
 The following details about the challenge creation process are provided for future reference.
